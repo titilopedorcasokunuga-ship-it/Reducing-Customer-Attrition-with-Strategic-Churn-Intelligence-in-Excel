@@ -75,7 +75,7 @@ The goal was to convert raw operational data into executive-level business intel
 
 
 ---
-![TeleConnect Churn Dashboard](images/dashboard.png)
+![Customer Churn Dashboard](https://drive.google.com/uc?export=view&id=1ynQ8to2HyeUo5oyzfFR02SOgYrv1g0C4)
 ---
 
 ## 1. Overall Customer Churn
